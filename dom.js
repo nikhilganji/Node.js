@@ -1,0 +1,10 @@
+1.  Console.log(document.domain);
+2.	Console.log(document.URL);
+3.	Console.log(document.title);
+4.	Console.log(document.doctype);
+5.	Console.log(document.head);
+6.	Console.log(document.body);
+7.	Console.log(document.images);
+8.	Console.log(document.links);
+9.	Console.log(document.forms);
+10.	Console.log(document.all);
